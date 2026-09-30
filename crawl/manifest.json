@@ -1,0 +1,10 @@
+{
+  "tool": "suite-builder",
+  "version": "1.31.4",
+  "framework": "playwright",
+  "generatedAt": "2026-09-30T15:44:03.083Z",
+  "command": "suite-builder build cognizant.com --max-pages 1000",
+  "templates": "www.cognizant.com.templates.json",
+  "crawl": "www.cognizant.com.crawl.json",
+  "crawlFileSaved": "2026-09-30T15:43:15.148Z"
+}
